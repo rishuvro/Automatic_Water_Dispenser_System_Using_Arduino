@@ -1,6 +1,6 @@
 # Automatic_Water_Dispenser_System_Using_Arduino
 This project is an automatic water dispenser system that uses an Arduino Uno microcontroller. The system can dispense water automatically.
-**### Automatic Water Dispenser System Using Arduino**
+**Automatic Water Dispenser System Using Arduino**
 An automatic water dispenser system powered by Arduino, designed to provide a convenient and efficient way of dispensing water. This project uses an Arduino Uno, a sonar sensor, a water motor, a relay, a battery, a breadboard, and connecting wires.
 
 ### **Features**
